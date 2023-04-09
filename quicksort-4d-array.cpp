@@ -33,6 +33,7 @@ void quicksort_4d_array(int arr[SIZE1][SIZE2][SIZE3][SIZE4], int start1, int end
                             }
                         }
                     }
+                    
                     else if (arr[m][n][p][q] == pivot) {
                         if (q < end4) {
                             q++;
@@ -64,3 +65,14 @@ void quicksort_4d_array(int arr[SIZE1][SIZE2][SIZE3][SIZE4], int start1, int end
     quicksort_4d_array(arr, i, end1, j, end2, k, end3, start4, end4);
     quicksort_4d_array(arr, i, end1, j, end2, k, end3, l, end4);
 }
+//DONATE SRAVstudios
+
+//BTC - bc1q5kmqqynratseyh7v0n8q58rn7p5xejuemmc4px
+
+//USDT(ETH)  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
+
+//USDT(SOLANA)  - 4MjmiAwiQT1cqb5fSpvdsKCabZAKxopcMsTqem9gWBqB
+
+//USDT(POLYGON)  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
+//
+//ETH  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
