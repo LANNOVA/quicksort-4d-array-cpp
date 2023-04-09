@@ -21,7 +21,7 @@ const int SIZE4 = 10;
 
 void quicksort_4d_array(int arr[SIZE1][SIZE2][SIZE3][SIZE4], int start1, int end1, int start2, int end2, int start3, int end3, int start4, int end4) {
     // Implementation of quicksort_4d_array function
-    // ...
+    //
 
 
 int main() {
@@ -29,7 +29,8 @@ int main() {
     quicksort_4d_array(arr, 0, SIZE1-1, 0, SIZE2-1, 0, SIZE3-1, 0, SIZE4-1);
     // Array will be sorted in ascending order
     return 0;
-}```
+}
+```
 ##Contributing
 
 If you would like to contribute to this project, please fork the repository, make changes, and submit a pull request.
