@@ -31,11 +31,12 @@ int main() {
     return 0;
 }
 ```
-##Contributing
+
+## Contributing
 
 If you would like to contribute to this project, please fork the repository, make changes, and submit a pull request.
 
-##Donate SRAVStudios
+## Donate SRAVStudios
 **BTC** - bc1q5kmqqynratseyh7v0n8q58rn7p5xejuemmc4px
 
 **USDT(ETH)**  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
